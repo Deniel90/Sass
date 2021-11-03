@@ -1,0 +1,14 @@
+$mainColor1: rgb(46, 156, 46);
+$mainColor2: rgb(250, 168, 114);
+$mainColor3: adjust-color($mainColor1, $lightness: -25%);
+
+$gradientColor1: rgb(250, 246, 226);
+$gradientColor2: rgb(240, 234, 187);
+
+$footergradientColor1: rgb(247, 250, 231);
+$footergradientColor2: rgb(190, 235, 85);
+
+$backgroundColor: $gradientColor1;
+$shadowColor: rgb(94, 94, 94);
+
+$defaultFont: 'Dosis', sans-serif;
